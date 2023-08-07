@@ -1,14 +1,12 @@
-import './App.css'
-import QR from './QR'
+import "./App.css";
+import QR from "./QR_Generator";
 
 function App() {
-
-
   return (
     <>
-    <QR />
+      <QR />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
